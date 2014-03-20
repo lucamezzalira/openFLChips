@@ -1,0 +1,585 @@
+TBlackJack
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Info.plist /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/BlackJack-Info.plist
+cCpResource BlackJack/assets build/Release-iphonesimulator/BlackJack.app/assets
+cCpResource BlackJack/Icon.png build/Release-iphonesimulator/BlackJack.app/Icon.png
+cCpResource BlackJack/Icon@2x.png build/Release-iphonesimulator/BlackJack.app/Icon@2x.png
+cCpResource BlackJack/Icon-72.png build/Release-iphonesimulator/BlackJack.app/Icon-72.png
+cCpResource BlackJack/Icon-72@2x.png build/Release-iphonesimulator/BlackJack.app/Icon-72@2x.png
+cCpResource BlackJack/Icon-60.png build/Release-iphonesimulator/BlackJack.app/Icon-60.png
+cCpResource BlackJack/Icon-76.png build/Release-iphonesimulator/BlackJack.app/Icon-76.png
+cCpResource BlackJack/Icon-60@2x.png build/Release-iphonesimulator/BlackJack.app/Icon-60@2x.png
+cCpResource BlackJack/Icon-76@2x.png build/Release-iphonesimulator/BlackJack.app/Icon-76@2x.png
+cCpResource BlackJack/Default.png build/Release-iphonesimulator/BlackJack.app/Default.png
+cCpResource BlackJack/Default@2x.png build/Release-iphonesimulator/BlackJack.app/Default@2x.png
+cCpResource BlackJack/Default-Portrait.png build/Release-iphonesimulator/BlackJack.app/Default-Portrait.png
+cCpResource BlackJack/Default-Portrait@2x.png build/Release-iphonesimulator/BlackJack.app/Default-Portrait@2x.png
+cCpResource BlackJack/Default-Landscape.png build/Release-iphonesimulator/BlackJack.app/Default-Landscape.png
+cCpResource BlackJack/Default-Landscape@2x.png build/Release-iphonesimulator/BlackJack.app/Default-Landscape@2x.png
+cCpResource BlackJack/Default-568h@2x.png build/Release-iphonesimulator/BlackJack.app/Default-568h@2x.png
+cProcessPCH++ /var/folders/x6/g_kylp3x3vs0s2k8fbghczj40000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BlackJack-Prefix-gznaztqydnfggegzrmrmvbnlrnod/BlackJack-Prefix.pch.pch BlackJack/BlackJack-Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BlackJack.build/Release-iphonesimulator/BlackJack.build/Objects-normal/i386/Main.o /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Classes/Main.mm normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/BlackJack normal i386
+cGenerateDSYMFile /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app.dSYM /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/BlackJack
+cTouch /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052E9786300000000000003B5
+t1391032419
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052E9786B00000000000001A0
+t1391032427
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c0000000052E9786C000000000047C980
+t1391032428
+s4704640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000052E9786C00000000009040F0
+t1391032428
+s9453808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000052E9786C00000000000FA140
+t1391032428
+s1024320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052E9786D0000000000445870
+t1391032429
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052E9786E000000000088C680
+t1391032430
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c0000000052E9786F000000000007C070
+t1391032431
+s508016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000052E978700000000000037620
+t1391032432
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052E9787000000000004848F0
+t1391032432
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052E978730000000001DB9910
+t1391032435
+s31168784
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/BlackJack-Info.plist
+c000000005328CBA00000000000000AD3
+t1395182496
+s2771
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/BlackJack-Prefix.pch
+c000000005328CBA00000000000000141
+t1395182496
+s321
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Classes/Main.mm
+c000000005328CC090000000000000384
+t1395182601
+s900
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Default-568h@2x.png
+c000000005328CB9F0000000000001188
+t1395182495
+s4488
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Default-Landscape.png
+c000000005328CB9F0000000000000FB6
+t1395182495
+s4022
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Default-Landscape@2x.png
+c000000005328CBA00000000000003196
+t1395182496
+s12694
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Default-Portrait.png
+c000000005328CB9F00000000000011D6
+t1395182495
+s4566
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Default-Portrait@2x.png
+c000000005328CB9F00000000000035F2
+t1395182495
+s13810
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Default.png
+c000000005328CB9F00000000000005BC
+t1395182495
+s1468
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Default@2x.png
+c000000005328CB9F0000000000000EDE
+t1395182495
+s3806
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon-60.png
+c000000005328CB9E000000000000080B
+t1395182494
+s2059
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon-60@2x.png
+c000000005328CB9F0000000000001189
+t1395182495
+s4489
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon-72.png
+c000000005328CB9F000000000000097D
+t1395182495
+s2429
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon-72@2x.png
+c000000005328CB9F00000000000014F5
+t1395182495
+s5365
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon-76.png
+c000000005328CB9F0000000000000A4F
+t1395182495
+s2639
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon-76@2x.png
+c000000005328CB9F00000000000017E3
+t1395182495
+s6115
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon.png
+c000000005328CB9E0000000000000751
+t1395182494
+s1873
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon@2x.png
+c000000005328CB9E000000000000116F
+t1395182494
+s4463
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/assets
+c000000005328CBA10000000000000088
+t1395182497
+s136
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/Objects-normal/i386/BlackJack.LinkFileList
+c000000005328CC09000000000000009B
+t1395182601
+s155
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/Objects-normal/i386/Main.o
+t1395182601
+s3092
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app
+t1395182603
+s714
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app.dSYM
+t2
+s0
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/BlackJack
+t1395182602
+s5593796
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Default-568h@2x.png
+t1395182601
+s4488
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Default-Landscape.png
+t1395182601
+s4022
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Default-Landscape@2x.png
+t1395182601
+s12694
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Default-Portrait.png
+t1395182601
+s4566
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Default-Portrait@2x.png
+t1395182601
+s13810
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Default.png
+t1395182601
+s1468
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Default@2x.png
+t1395182601
+s3806
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon-60.png
+t1395182601
+s2059
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon-60@2x.png
+t1395182601
+s4489
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon-72.png
+t1395182601
+s2429
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon-72@2x.png
+t1395182601
+s5365
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon-76.png
+t1395182601
+s2639
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon-76@2x.png
+t1395182601
+s6115
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon.png
+t1395182601
+s1873
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon@2x.png
+t1395182601
+s4463
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Info.plist
+t1395182601
+s1640
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/PkgInfo
+t1395182601
+s8
+
+N/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/assets
+t1395182601
+s136
+
+N/var/folders/x6/g_kylp3x3vs0s2k8fbghczj40000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BlackJack-Prefix-gznaztqydnfggegzrmrmvbnlrnod/BlackJack-Prefix.pch.pch
+t1395182601
+s207248
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies87a6688903d9b841^c3836a8903d9b841^---0#1#1#--18"Check dependencies36"2DC79E24-ADE0-4875-93DF-05A0F96FFC14-
+
+CCompileC build/BlackJack.build/Release-iphonesimulator/BlackJack.build/Objects-normal/i386/Main.o /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Classes/Main.mm normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416875401.495810
+e416875401.542098
+r1
+xCompileC
+xbuild/BlackJack.build/Release-iphonesimulator/BlackJack.build/Objects-normal/i386/Main.o
+x/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Classes/Main.mm
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Classes/Main.mm
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Classes/Main.mm199"[1mCompileC[0m build/BlackJack.build/Release-iphonesimulator/BlackJack.build/Objects-normal/i386/Main.o [1mBlackJack/Classes/Main.mm[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerb8017f8903d9b841^bdc68a8903d9b841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Classes/Main.mm0000000000000000^3805"[1mCompileC[0m build/BlackJack.build/Release-iphonesimulator/BlackJack.build/Objects-normal/i386/Main.o [1mBlackJack/Classes/Main.mm[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=179 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5 -iquote /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/BlackJack-generated-files.hmap -I/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/BlackJack-own-target-headers.hmap -I/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/BlackJack-all-target-headers.hmap -iquote /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/BlackJack-project-headers.hmap -I/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/DerivedSources/i386 -I/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/DerivedSources -F/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/x6/g_kylp3x3vs0s2k8fbghczj40000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BlackJack-Prefix-gznaztqydnfggegzrmrmvbnlrnod/BlackJack-Prefix.pch -MMD -MT dependencies -MF /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/Objects-normal/i386/Main.d --serialize-diagnostics /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/Objects-normal/i386/Main.dia -c /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Classes/Main.mm -o /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/Objects-normal/i386/Main.o36"D4DD9296-3F00-4EA6-ACA0-46BBF927E292-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/Default-568h@2x.png build/Release-iphonesimulator/BlackJack.app/Default-568h@2x.png
+s416875401.427964
+e416875401.429121
+r1
+xCpResource
+xBlackJack/Default-568h@2x.png
+xbuild/Release-iphonesimulator/BlackJack.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Release-iphonesimulator/BlackJack.app/Default-568h@2x.png112"[1mCpResource[0m BlackJack/Default-568h@2x.png build/Release-iphonesimulator/BlackJack.app/Default-568h@2x.pnge6ae6d8903d9b841^6ced6d8903d9b841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Default-568h@2x.png003404f1dcffdf42^938"[1mCpResource[0m BlackJack/Default-568h@2x.png build/Release-iphonesimulator/BlackJack.app/Default-568h@2x.png    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Default-568h@2x.png /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"0B1C5740-9EA1-4AAC-906E-3E13C846042D-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/Default-Landscape.png build/Release-iphonesimulator/BlackJack.app/Default-Landscape.png
+s416875401.427189
+e416875401.428677
+r1
+xCpResource
+xBlackJack/Default-Landscape.png
+xbuild/Release-iphonesimulator/BlackJack.app/Default-Landscape.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Release-iphonesimulator/BlackJack.app/Default-Landscape.png116"[1mCpResource[0m BlackJack/Default-Landscape.png build/Release-iphonesimulator/BlackJack.app/Default-Landscape.png967b6d8903d9b841^3fc96d8903d9b841^---0#0#1#-19%DVTDocumentLocation2@138"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Default-Landscape.png003404f1dcffdf42^944"[1mCpResource[0m BlackJack/Default-Landscape.png build/Release-iphonesimulator/BlackJack.app/Default-Landscape.png    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Default-Landscape.png /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"7181E00B-317F-4200-9FDF-D2A1562B0010-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/Default-Landscape@2x.png build/Release-iphonesimulator/BlackJack.app/Default-Landscape@2x.png
+s416875401.427848
+e416875401.428823
+r1
+xCpResource
+xBlackJack/Default-Landscape@2x.png
+xbuild/Release-iphonesimulator/BlackJack.app/Default-Landscape@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy build/Release-iphonesimulator/BlackJack.app/Default-Landscape@2x.png122"[1mCpResource[0m BlackJack/Default-Landscape@2x.png build/Release-iphonesimulator/BlackJack.app/Default-Landscape@2x.pngfe9d6d8903d9b841^9be66d8903d9b841^---0#0#1#-19%DVTDocumentLocation2@141"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Default-Landscape@2x.png003404f1dcffdf42^953"[1mCpResource[0m BlackJack/Default-Landscape@2x.png build/Release-iphonesimulator/BlackJack.app/Default-Landscape@2x.png    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Default-Landscape@2x.png /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"28BFCC17-54F5-4438-B069-17046B589CB8-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/Default-Portrait.png build/Release-iphonesimulator/BlackJack.app/Default-Portrait.png
+s416875401.426359
+e416875401.427552
+r1
+xCpResource
+xBlackJack/Default-Portrait.png
+xbuild/Release-iphonesimulator/BlackJack.app/Default-Portrait.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Release-iphonesimulator/BlackJack.app/Default-Portrait.png114"[1mCpResource[0m BlackJack/Default-Portrait.png build/Release-iphonesimulator/BlackJack.app/Default-Portrait.pngb7416d8903d9b841^b8926d8903d9b841^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Default-Portrait.png003404f1dcffdf42^941"[1mCpResource[0m BlackJack/Default-Portrait.png build/Release-iphonesimulator/BlackJack.app/Default-Portrait.png    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Default-Portrait.png /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"BE61E99F-7556-4268-B0C5-57FE9E12E04C-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/Default-Portrait@2x.png build/Release-iphonesimulator/BlackJack.app/Default-Portrait@2x.png
+s416875401.426945
+e416875401.428375
+r1
+xCpResource
+xBlackJack/Default-Portrait@2x.png
+xbuild/Release-iphonesimulator/BlackJack.app/Default-Portrait@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Release-iphonesimulator/BlackJack.app/Default-Portrait@2x.png120"[1mCpResource[0m BlackJack/Default-Portrait@2x.png build/Release-iphonesimulator/BlackJack.app/Default-Portrait@2x.png80616d8903d9b841^82ae6d8903d9b841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Default-Portrait@2x.png003404f1dcffdf42^950"[1mCpResource[0m BlackJack/Default-Portrait@2x.png build/Release-iphonesimulator/BlackJack.app/Default-Portrait@2x.png    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Default-Portrait@2x.png /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"0D4414D2-D3FB-4B6D-9188-F13052A307B0-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/Default.png build/Release-iphonesimulator/BlackJack.app/Default.png
+s416875401.424837
+e416875401.426683
+r1
+xCpResource
+xBlackJack/Default.png
+xbuild/Release-iphonesimulator/BlackJack.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Release-iphonesimulator/BlackJack.app/Default.png96"[1mCpResource[0m BlackJack/Default.png build/Release-iphonesimulator/BlackJack.app/Default.pngf10d6d8903d9b841^39436d8903d9b841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Default.png003404f1dcffdf42^914"[1mCpResource[0m BlackJack/Default.png build/Release-iphonesimulator/BlackJack.app/Default.png    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Default.png /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"EA0A4A47-45FB-4AC3-A6DD-7E2E50B10B90-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/Default@2x.png build/Release-iphonesimulator/BlackJack.app/Default@2x.png
+s416875401.425705
+e416875401.427483
+r1
+xCpResource
+xBlackJack/Default@2x.png
+xbuild/Release-iphonesimulator/BlackJack.app/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Release-iphonesimulator/BlackJack.app/Default@2x.png102"[1mCpResource[0m BlackJack/Default@2x.png build/Release-iphonesimulator/BlackJack.app/Default@2x.png57256d8903d9b841^c1716d8903d9b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Default@2x.png003404f1dcffdf42^923"[1mCpResource[0m BlackJack/Default@2x.png build/Release-iphonesimulator/BlackJack.app/Default@2x.png    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Default@2x.png /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"65C3AE9C-BE78-48AB-B6A6-AA253BF460CE-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/Icon-60.png build/Release-iphonesimulator/BlackJack.app/Icon-60.png
+s416875401.421726
+e416875401.423008
+r1
+xCpResource
+xBlackJack/Icon-60.png
+xbuild/Release-iphonesimulator/BlackJack.app/Icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Release-iphonesimulator/BlackJack.app/Icon-60.png96"[1mCpResource[0m BlackJack/Icon-60.png build/Release-iphonesimulator/BlackJack.app/Icon-60.pngdf1a6c8903d9b841^6f666c8903d9b841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon-60.png003404f1dcffdf42^914"[1mCpResource[0m BlackJack/Icon-60.png build/Release-iphonesimulator/BlackJack.app/Icon-60.png    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon-60.png /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"3D3FE94C-576D-49B3-82EF-2096AE41E0D8-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/Icon-60@2x.png build/Release-iphonesimulator/BlackJack.app/Icon-60@2x.png
+s416875401.423017
+e416875401.425040
+r1
+xCpResource
+xBlackJack/Icon-60@2x.png
+xbuild/Release-iphonesimulator/BlackJack.app/Icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Release-iphonesimulator/BlackJack.app/Icon-60@2x.png102"[1mCpResource[0m BlackJack/Icon-60@2x.png build/Release-iphonesimulator/BlackJack.app/Icon-60@2x.pngc05f6c8903d9b841^97e46c8903d9b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon-60@2x.png003404f1dcffdf42^923"[1mCpResource[0m BlackJack/Icon-60@2x.png build/Release-iphonesimulator/BlackJack.app/Icon-60@2x.png    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon-60@2x.png /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"5061BDC8-FF6C-43FC-98C6-6EAD4258330C-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/Icon-72.png build/Release-iphonesimulator/BlackJack.app/Icon-72.png
+s416875401.419707
+e416875401.421303
+r1
+xCpResource
+xBlackJack/Icon-72.png
+xbuild/Release-iphonesimulator/BlackJack.app/Icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Release-iphonesimulator/BlackJack.app/Icon-72.png96"[1mCpResource[0m BlackJack/Icon-72.png build/Release-iphonesimulator/BlackJack.app/Icon-72.png4e7e6b8903d9b841^35416c8903d9b841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon-72.png003404f1dcffdf42^914"[1mCpResource[0m BlackJack/Icon-72.png build/Release-iphonesimulator/BlackJack.app/Icon-72.png    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon-72.png /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"CCBC8705-0AE9-443C-962F-6C38418496C2-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/Icon-72@2x.png build/Release-iphonesimulator/BlackJack.app/Icon-72@2x.png
+s416875401.421431
+e416875401.422826
+r1
+xCpResource
+xBlackJack/Icon-72@2x.png
+xbuild/Release-iphonesimulator/BlackJack.app/Icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Release-iphonesimulator/BlackJack.app/Icon-72@2x.png102"[1mCpResource[0m BlackJack/Icon-72@2x.png build/Release-iphonesimulator/BlackJack.app/Icon-72@2x.png4b066c8903d9b841^03606c8903d9b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon-72@2x.png003404f1dcffdf42^923"[1mCpResource[0m BlackJack/Icon-72@2x.png build/Release-iphonesimulator/BlackJack.app/Icon-72@2x.png    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon-72@2x.png /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"8DCB86C8-005E-4E03-A87C-9BD35479A835-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/Icon-76.png build/Release-iphonesimulator/BlackJack.app/Icon-76.png
+s416875401.422815
+e416875401.425839
+r1
+xCpResource
+xBlackJack/Icon-76.png
+xbuild/Release-iphonesimulator/BlackJack.app/Icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Release-iphonesimulator/BlackJack.app/Icon-76.png96"[1mCpResource[0m BlackJack/Icon-76.png build/Release-iphonesimulator/BlackJack.app/Icon-76.png96786c8903d9b841^3a056d8903d9b841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon-76.png003404f1dcffdf42^914"[1mCpResource[0m BlackJack/Icon-76.png build/Release-iphonesimulator/BlackJack.app/Icon-76.png    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon-76.png /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"200C24D2-7D68-4283-A0FD-36D82EC2AB33-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/Icon-76@2x.png build/Release-iphonesimulator/BlackJack.app/Icon-76@2x.png
+s416875401.423210
+e416875401.425976
+r1
+xCpResource
+xBlackJack/Icon-76@2x.png
+xbuild/Release-iphonesimulator/BlackJack.app/Icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Release-iphonesimulator/BlackJack.app/Icon-76@2x.png102"[1mCpResource[0m BlackJack/Icon-76@2x.png build/Release-iphonesimulator/BlackJack.app/Icon-76@2x.png008b6c8903d9b841^e50c6d8903d9b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon-76@2x.png003404f1dcffdf42^923"[1mCpResource[0m BlackJack/Icon-76@2x.png build/Release-iphonesimulator/BlackJack.app/Icon-76@2x.png    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon-76@2x.png /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"B7C415FD-1E3C-4755-9795-61829EB95D08-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/Icon.png build/Release-iphonesimulator/BlackJack.app/Icon.png
+s416875401.418889
+e416875401.421020
+r1
+xCpResource
+xBlackJack/Icon.png
+xbuild/Release-iphonesimulator/BlackJack.app/Icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Release-iphonesimulator/BlackJack.app/Icon.png90"[1mCpResource[0m BlackJack/Icon.png build/Release-iphonesimulator/BlackJack.app/Icon.pngf4506b8903d9b841^04e46b8903d9b841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon.png003404f1dcffdf42^905"[1mCpResource[0m BlackJack/Icon.png build/Release-iphonesimulator/BlackJack.app/Icon.png    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon.png /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"C88476F3-54A4-4881-AA48-2F150DE941D9-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/Icon@2x.png build/Release-iphonesimulator/BlackJack.app/Icon@2x.png
+s416875401.419075
+e416875401.421271
+r1
+xCpResource
+xBlackJack/Icon@2x.png
+xbuild/Release-iphonesimulator/BlackJack.app/Icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Release-iphonesimulator/BlackJack.app/Icon@2x.png96"[1mCpResource[0m BlackJack/Icon@2x.png build/Release-iphonesimulator/BlackJack.app/Icon@2x.png7c646b8903d9b841^d21d6c8903d9b841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Icon@2x.png003404f1dcffdf42^914"[1mCpResource[0m BlackJack/Icon@2x.png build/Release-iphonesimulator/BlackJack.app/Icon@2x.png    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/Icon@2x.png /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"E9DCC607-9508-4901-B8D9-D2E64E13D03B-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CCpResource BlackJack/assets build/Release-iphonesimulator/BlackJack.app/assets
+s416875401.418782
+e416875401.421234
+r1
+xCpResource
+xBlackJack/assets
+xbuild/Release-iphonesimulator/BlackJack.app/assets
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Release-iphonesimulator/BlackJack.app/assets86"[1mCpResource[0m BlackJack/assets build/Release-iphonesimulator/BlackJack.app/assets16516b8903d9b841^0bee6b8903d9b841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/assets003404f1dcffdf42^899"[1mCpResource[0m BlackJack/assets build/Release-iphonesimulator/BlackJack.app/assets    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/assets /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app36"44FDEE64-A27C-4406-9FA8-073A624FA69C-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CGenerateDSYMFile /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app.dSYM /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/BlackJack
+s416875403.046931
+e416875403.272052
+r1
+xGenerateDSYMFile
+x/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app.dSYM
+x/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/BlackJack
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Generate /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app.dSYM135"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/BlackJack.app.dSYM[0m build/Release-iphonesimulator/BlackJack.app/BlackJack55130c8b03d9b841^37a8458b03d9b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app.dSYM003404f1dcffdf42^855"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/BlackJack.app.dSYM[0m build/Release-iphonesimulator/BlackJack.app/BlackJack    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/BlackJack -o /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app.dSYM36"8AE2A513-6CE1-4644-9CA4-208F2EA6A859-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CLd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/BlackJack normal i386
+s416875401.542907
+e416875403.045841
+r1
+xLd
+x/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/BlackJack
+xnormal
+xi386
+d/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/Objects-normal/i386/BlackJack.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/Objects-normal/i386/Main.o
+d/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/lib/i386/libstd.a
+d/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/lib/i386/libregexp.a
+d/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/lib/i386/libzlib.a
+d/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/lib/i386/liblime.a
+d/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/lib/i386/libcurl_ssl.a
+d/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/lib/i386/libpng.a
+d/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/lib/i386/libjpeg.a
+d/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/lib/i386/libfreetype.a
+d/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/lib/i386/libogg.a
+d/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/lib/i386/libvorbis.a
+d/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/lib/i386/libApplicationMain.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.A.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libc++abi.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/BlackJack76"[1mLd[0m build/Release-iphonesimulator/BlackJack.app/BlackJack normal i386a20e8b8903d9b841^7fbc0b8b03d9b841^---0#0#1#--1935"[1mLd[0m build/Release-iphonesimulator/BlackJack.app/BlackJack normal i386    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv IPHONEOS_DEPLOYMENT_TARGET 5    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator -L/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/lib/i386 -F/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator -filelist /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/Objects-normal/i386/BlackJack.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -lstd -lregexp -lzlib -llime -lcurl_ssl -lpng -ljpeg -lfreetype -logg -lvorbis -lApplicationMain -stdlib=libc++ -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5 -framework UIKit -framework OpenAL -framework OpenGLES -framework QuartzCore -framework CoreAudio -framework CoreGraphics -framework AudioToolbox -framework AVFoundation -framework Foundation -Xlinker -dependency_info -Xlinker /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/Objects-normal/i386/BlackJack_dependency_info.dat -o /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/BlackJack36"AAAE9911-9D01-4BDC-9257-67AE0A4DEE1A-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CProcessInfoPlistFile /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Info.plist /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/BlackJack-Info.plist
+s416875401.415766
+e416875401.418367
+r1
+xProcessInfoPlistFile
+x/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Info.plist
+x/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/BlackJack-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Process /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/BlackJack-Info.plist122"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/BlackJack.app/Info.plist [1mBlackJack/BlackJack-Info.plist[0mc58e6a8903d9b841^2a1a6b8903d9b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/BlackJack-Info.plist0000000000000000^946"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/BlackJack.app/Info.plist [1mBlackJack/BlackJack-Info.plist[0m    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    builtin-infoPlistUtility /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/BlackJack-Info.plist -genpkginfo /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app/Info.plist36"E0D99669-593B-47AB-A52B-B825B28BDF63-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CProcessPCH++ /var/folders/x6/g_kylp3x3vs0s2k8fbghczj40000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BlackJack-Prefix-gznaztqydnfggegzrmrmvbnlrnod/BlackJack-Prefix.pch.pch BlackJack/BlackJack-Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416875401.430689
+e416875401.495181
+r1
+xProcessPCH++
+x/var/folders/x6/g_kylp3x3vs0s2k8fbghczj40000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BlackJack-Prefix-gznaztqydnfggegzrmrmvbnlrnod/BlackJack-Prefix.pch.pch
+xBlackJack/BlackJack-Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/BlackJack-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile BlackJack/BlackJack-Prefix.pch300"[1mProcessPCH++[0m /var/folders/x6/g_kylp3x3vs0s2k8fbghczj40000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BlackJack-Prefix-gznaztqydnfggegzrmrmvbnlrnod/BlackJack-Prefix.pch.pch BlackJack/BlackJack-Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler69566e8903d9b841^5dc57e8903d9b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/BlackJack-Prefix.pch0000000000000000^3822"[1mProcessPCH++[0m /var/folders/x6/g_kylp3x3vs0s2k8fbghczj40000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BlackJack-Prefix-gznaztqydnfggegzrmrmvbnlrnod/BlackJack-Prefix.pch.pch BlackJack/BlackJack-Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/mezzalab2013/bin/Sencha/Cmd/3.1.1.274:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/opt/ImageMagick/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=179 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5 -iquote /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/BlackJack-generated-files.hmap -I/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/BlackJack-own-target-headers.hmap -I/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/BlackJack-all-target-headers.hmap -iquote /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/BlackJack-project-headers.hmap -I/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/DerivedSources/i386 -I/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/BlackJack.build/Release-iphonesimulator/BlackJack.build/DerivedSources -F/Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/x6/g_kylp3x3vs0s2k8fbghczj40000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BlackJack-Prefix-gznaztqydnfggegzrmrmvbnlrnod/BlackJack-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/x6/g_kylp3x3vs0s2k8fbghczj40000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BlackJack-Prefix-gznaztqydnfggegzrmrmvbnlrnod/BlackJack-Prefix.pch.d -c /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/BlackJack/BlackJack-Prefix.pch -o /var/folders/x6/g_kylp3x3vs0s2k8fbghczj40000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/BlackJack-Prefix-gznaztqydnfggegzrmrmvbnlrnod/BlackJack-Prefix.pch.pch36"FE097F78-A689-494D-9B10-BB068EE23759-
+bDD72E122-15AC-42D5-9A71-414FF47CA7A3
+
+CTouch /Users/mezzalab2013/Documents/gamesys/openFL/BlackJack/Export/ios/build/Release-iphonesimulator/BlackJack.app
+r0
+

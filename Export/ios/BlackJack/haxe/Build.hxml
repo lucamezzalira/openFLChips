@@ -1,0 +1,17 @@
+-main ApplicationMain 
+-lib openfl
+-lib openfl-native
+-lib hxlibc
+-lib actuate
+-cp ../../../../
+-cp ../../../../Source
+-D tools=1.2.9
+-D lime_native
+-D no-compilation
+-D ios
+-D mobile
+--macro allowPackage('flash')
+-D iphone
+-D ios
+--macro keep("Main")
+-D no-compilation
